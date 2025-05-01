@@ -1,6 +1,6 @@
 import React from "react";
 
-function Nvabar() {
+function Navbar() {
   return (
     <div className="mt-6 max-w-sm mx-auto bg-violet-500 p-6 border border-gray-300 rounded-lg shadow-lg">
       <img
@@ -24,4 +24,4 @@ function Nvabar() {
   );
 }
 
-export default Nvabar;
+export default Navbar;
