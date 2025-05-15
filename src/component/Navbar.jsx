@@ -7,7 +7,7 @@ function Navbar() {
         src="https://cdn-icons-png.flaticon.com/128/2/2206.png"
         width={50}
         alt=""
-        className="rounded-full m-auto"
+        className="rounded-full m-auto "
       />
 
       <h2 className="text-xl font-bold mb-2 text-gray-800 text-center">
